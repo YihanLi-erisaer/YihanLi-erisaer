@@ -39,8 +39,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YihanLi-erisaer&show_icons=true&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer&layout=compact)
 
 ---
@@ -70,7 +68,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: liyihan11unique@outlook.com
 - 🌐 GitHub: https://github.com/YihanLi-erisaer
 
 ---
