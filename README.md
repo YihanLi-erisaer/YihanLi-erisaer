@@ -1,0 +1,79 @@
+# 👋 Hi, I'm Yihan Li
+
+🎓 Computer Science Student  
+💻 Frontend Developer | Android Developer  
+🤖 Interested in AI, LLM Applications & Cross-platform Development  
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working on AI-powered applications & mobile development
+- 💡 Passionate about building real-world products with modern tech stacks
+- 📚 Preparing for Master's applications in Computer Science
+- 🌱 Learning: LLM integration, system design, and scalable applications
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+- JavaScript / TypeScript
+- Kotlin
+- Python
+
+### 🌐 Frontend
+- React
+- Tailwind CSS
+- HTML / CSS
+
+### 📱 Mobile Development
+- Android (Jetpack Compose)
+- Kotlin Multiplatform
+
+### ⚙️ Tools & Others
+- Git / GitHub
+- REST APIs
+- Gradle
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YihanLi-erisaer&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer&layout=compact)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Client App
+- 💡 AI chat application with modern UI
+- 🛠 Built with Kotlin + Compose
+- 🚀 Focus on real-time interaction & UX
+
+### 🔹 OpenClaw Mobile Deployment
+- 📱 Deploy AI system on mobile devices
+- ⚙️ Focus on performance and usability
+
+### 🔹 Frontend Projects
+- 🌐 Interactive web apps using React
+- 🎨 Focus on UI/UX and responsiveness
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YihanLi-erisaer)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com
+- 🌐 GitHub: https://github.com/YihanLi-erisaer
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real products 🚀
