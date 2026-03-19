@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Yihan Li
 
-🎓 Computer Science Student  
 💻 Frontend Developer | Android Developer  
 🤖 Interested in AI, LLM Applications & Cross-platform Development  
 
