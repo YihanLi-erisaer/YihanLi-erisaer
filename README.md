@@ -26,6 +26,19 @@
 - Tailwind CSS
 - HTML / CSS
 
+## 🧠 Backend & System Design
+
+- 🔧 Experience building backend logic for AI-driven applications  
+- ⚙️ Familiar with RESTful API design and client-server architecture  
+- 🧩 Understanding of full-stack development and frontend-backend integration  
+- 🚀 Experience integrating LLM APIs into real-world applications  
+- 🗄 Basic knowledge of data handling, state management, and asynchronous processing  
+
+### 🔍 What I Focus On
+- Designing scalable and maintainable application structures  
+- Optimizing API interaction and data flow  
+- Building end-to-end features from frontend UI to backend logic  
+
 ### 📱 Mobile Development
 - Android (Jetpack Compose)
 - Kotlin Multiplatform
