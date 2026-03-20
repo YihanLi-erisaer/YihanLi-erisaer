@@ -1,88 +1,119 @@
-# 👋 Hi,
+# Yihan Li
 
-💻 Frontend Developer | Android Developer  
-🤖 Interested in AI, LLM Applications & Cross-platform Development  
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on AI-powered applications & mobile development
-- 💡 Passionate about building real-world products with modern tech stacks
-- 📚 Preparing for Master's applications in Computer Science
-- 🌱 Learning: LLM integration, system design, and scalable applications
+Full-Stack Developer | Android Developer
+Research Interests: AI Systems, Large Language Models, and Scalable Software Architecture
 
 ---
 
-## 🛠 Tech Stack
+## Profile
 
-### 💻 Programming Languages
-- JavaScript / TypeScript
-- Kotlin
-- Python
-- C
-- Java
+I am a developer with a strong focus on **AI-driven systems and software engineering**, particularly in the integration of **Large Language Models (LLMs)** into real-world applications.
 
-### 🌐 Frontend
-- Kotlin
-- React
-- Tailwind CSS
-- HTML / CSS
+My experience lies in building **end-to-end systems**, covering frontend interfaces, backend services, and mobile deployment, with an emphasis on **scalability, modularity, and system design**.
 
-## 🧠 Backend & System Design
-
-- 🔧 Experience building backend logic for AI-driven applications  
-- ⚙️ Familiar with RESTful API design and client-server architecture  
-- 🧩 Understanding of full-stack development and frontend-backend integration  
-- 🚀 Experience integrating LLM APIs into real-world applications  
-- 🗄 Basic knowledge of data handling, state management, and asynchronous processing  
-
-### 🔍 What I Focus On
-- Designing scalable and maintainable application structures  
-- Optimizing API interaction and data flow  
-- Building end-to-end features from frontend UI to backend logic  
-
-### 📱 Mobile Development
-- Android (Jetpack Compose)
-- Kotlin Multiplatform
-
-### ⚙️ Tools & Others
-- Git / GitHub
-- REST APIs
-- Gradle
+I am currently preparing for graduate study in Computer Science, with a focus on **AI systems and intelligent applications**.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Expertise
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer&layout=compact)
+### Programming Languages
 
----
-
-## 📌 Featured Projects
-
-### 🔹 AI Client App
-- 💡 AI chat application with modern UI
-- 🛠 Built with Kotlin + Compose
-- 🚀 Focus on real-time interaction & UX
-
-### 🔹 OpenClaw Mobile Deployment
-- 📱 Deploy AI system on mobile devices
-- ⚙️ Focus on performance and usability
-
-### 🔹 Frontend Projects
-- 🌐 Interactive web apps using React
-- 🎨 Focus on UI/UX and responsiveness
+* Kotlin (Android / Multiplatform)
+* Python (AI systems, backend logic)
+* JavaScript / TypeScript (frontend systems)
+* Java, C
 
 ---
 
-## 📈 Activity Graph
+### Systems & Backend
+
+* Design and implementation of **RESTful APIs and service-oriented architecture**
+* Experience with **client-server systems and asynchronous workflows**
+* Integration of **LLM APIs into application pipelines**
+* Understanding of **scalable system design and modular architectures**
+* Practical experience in **end-to-end system construction**
+
+---
+
+### Frontend Engineering
+
+* Development of **single-page applications (SPA)** using React
+* UI implementation with Tailwind CSS
+* Focus on **usability, responsiveness, and interaction design**
+
+---
+
+### Mobile Systems
+
+* Android development using Jetpack Compose
+* Cross-platform development with Kotlin Multiplatform
+* Exploration of **on-device AI deployment and performance constraints**
+
+---
+
+## Research-Oriented Interests
+
+* Large Language Model (LLM) applications
+
+  * Retrieval-Augmented Generation (RAG)
+  * AI agents and tool-augmented systems
+
+* AI system deployment
+
+  * Integration of models into production environments
+  * Mobile and edge-side AI
+
+* Software system design
+
+  * Scalable backend architecture
+  * End-to-end system optimization
+
+---
+
+## Selected Projects
+
+### AI Client Application (LLM-based System)
+
+Developed a real-time AI application integrating LLM APIs into an interactive client system.
+
+* Designed the **frontend interaction layer** using Kotlin and Jetpack Compose
+* Implemented **backend communication pipelines** for model inference
+* Focused on **latency, usability, and interaction efficiency**
+* Explored practical challenges in LLM-based application design
+
+---
+
+### Mobile Deployment of AI Systems
+
+Explored the feasibility of deploying AI capabilities on mobile platforms.
+
+* Implemented AI-related functionalities within mobile environments
+* Analyzed **performance constraints and resource limitations**
+* Optimized system behavior for **usability and responsiveness**
+
+---
+
+### Full-Stack Web Applications
+
+Developed web-based systems with integrated frontend and backend components.
+
+* Built applications using React and RESTful APIs
+* Designed **data flow and client-server interaction patterns**
+* Applied **modular design principles** for maintainability
+
+---
+
+## GitHub Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer\&layout=compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YihanLi-erisaer)
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-- 📧 Email: liyihan11unique@outlook.com
-- 🌐 GitHub: https://github.com/YihanLi-erisaer
+Email: [liyihan11unique@outlook.com](mailto:liyihan11unique@outlook.com)
+GitHub: [https://github.com/YihanLi-erisaer](https://github.com/YihanLi-erisaer)
 
