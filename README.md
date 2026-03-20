@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yihan Li
+# 👋 Hi,
 
 💻 Frontend Developer | Android Developer  
 🤖 Interested in AI, LLM Applications & Cross-platform Development  
