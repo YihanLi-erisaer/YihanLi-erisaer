@@ -19,8 +19,11 @@
 - JavaScript / TypeScript
 - Kotlin
 - Python
+- C
+- Java
 
 ### 🌐 Frontend
+- Kotlin
 - React
 - Tailwind CSS
 - HTML / CSS
