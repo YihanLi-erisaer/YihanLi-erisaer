@@ -86,7 +86,3 @@
 - 📧 Email: liyihan11unique@outlook.com
 - 🌐 GitHub: https://github.com/YihanLi-erisaer
 
----
-
-## ⚡ Fun Fact
-I enjoy turning ideas into real products 🚀
