@@ -25,11 +25,11 @@
 - Kotlin / Java / Python / C / SQL
 
 **AI & ML**
-- PyTorch / ONNX / ASR (Zipformer)
+- sciket-learn / ONNX / ASR (Zipformer)
 - Model Optimization / Quantization
 
 **Development**
-- Android / Gradle / Jetpack Compose
+- Android / Gradle / Jetpack Compose / Kotlin Multiplatform
 - Backend basics / API integration
 
 ---
