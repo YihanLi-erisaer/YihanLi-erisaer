@@ -106,8 +106,6 @@ Developed web-based systems with integrated frontend and backend components.
 
 ## GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer&layout=compact&langs_count=8&theme=tokyonight)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YihanLi-erisaer)
 
 ---
