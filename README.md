@@ -1,11 +1,5 @@
 <h1 align="center">Yihan Li</h1>
-<h3 align="center">Full-Stack Developer | Android Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/YihanLi-erisaer">
-    <img src="https://img.shields.io/github/followers/YihanLi-erisaer?label=Followers&style=social" />
-  </a>
-</p>
+<h3 align="center">Liyihan11unique@outlook.com | https://www.linkedin.com/in/yihan-li-b882593b3/</h3>
 
 ---
 
