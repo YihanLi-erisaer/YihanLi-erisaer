@@ -37,11 +37,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YihanLi-erisaer&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YihanLi-erisaer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YihanLi-erisaer" />
 </p>
 
 ---
@@ -72,7 +68,7 @@ https://github.com/YihanLi-erisaer/Kotlin-zipformer
 
 ---
 
-### Web Crawler
+### Web Crawler and Data Analysis
  https://github.com/YihanLi-erisaer/Elements-of-data-processing-webpage-crawler
 
 - Data collection pipeline
