@@ -5,7 +5,7 @@
 
 ## About Me
 
--  CS / AI student (target: HKU / HKUST / CUHK)
+-  Full stack developer
 -  Focus on **Speech Recognition / On-device AI**
 -  Interested in **Systems + AI Engineering**
 -  Kotlin / Android + ML deployment
