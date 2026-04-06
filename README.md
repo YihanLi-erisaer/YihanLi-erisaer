@@ -9,7 +9,7 @@
 -  Focus on **Speech Recognition / On-device AI**
 -  Interested in **Systems + AI Engineering**
 -  Kotlin / Android + ML deployment
--  Building real-world AI applications (NOT just theory)
+-  Building real-world AI applications
 
 ---
 
