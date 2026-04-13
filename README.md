@@ -3,16 +3,6 @@
 
 ---
 
-## About Me
-
--  Full stack developer
--  Focus on **Speech Recognition / On-device AI**
--  Interested in **Systems + AI Engineering**
--  Kotlin / Android + ML deployment
--  Building real-world AI applications
-
----
-
 ##  Tech Stack
 
 **Languages**
