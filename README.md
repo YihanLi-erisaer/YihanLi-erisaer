@@ -28,14 +28,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YihanLi-erisaer" />
-</p>
-
----
-
 ## Featured Projects
 
 ###  Kotlin Zipformer ASR
