@@ -31,6 +31,7 @@ https://github.com/YihanLi-erisaer/Kotlin-zipformer
 - English Accuracy in chaos environment ~92%
 - English Accuracy in quiet environment ~97%
 - Kotlin + sherpa-ncnn Runtime deployment
+- Future change back to raw ncnn inference framework, and deploy a small LLM that can conclude the recognition text.
 
 ---
 
