@@ -25,6 +25,8 @@
 https://github.com/YihanLi-erisaer/smeeting
 
 - On-device speech recognition and local AI summary system
+- Kotlin + sherpa-ncnn + llama-cpp Runtime deployment
+
 **performance on a android device Helio G99 (CPU) processor using armv8 libs only running ASR model**
 | Metric       | Value   |
 | ------------ | ------- |
@@ -42,7 +44,7 @@ https://github.com/YihanLi-erisaer/smeeting
 | Quantization | 4-bit Integer |
 | Throughput | ~1.0 token/s |
 | Latency (Average Summary)      | ~60 seconds  |
-- Kotlin + sherpa-ncnn + llama-cpp Runtime deployment
+
 - **Future change back to raw ncnn inference framework, and deploy a small LLM that can conclude the recognition text.**
 
 ---
