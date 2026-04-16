@@ -9,7 +9,7 @@
 - Kotlin / Java / Python / C / SQL
 
 **AI & ML**
-- sciket-learn / ONNX / ASR (Zipformer)
+- sciket-learn / ONNX / sherpa-ncnn / ASR (Zipformer)
 - Model Optimization / Quantization
 
 **Development**
