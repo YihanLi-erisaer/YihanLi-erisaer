@@ -24,13 +24,25 @@
 
 https://github.com/YihanLi-erisaer/smeeting
 
-- On-device speech recognition system
-- ~250MB memory / ~80ms latency
-- Chinese Accuracy in chaos environment ~89%
-- Chinese Accuracy in quiet environment ~95%
-- English Accuracy in chaos environment ~92%
-- English Accuracy in quiet environment ~97%
-- Kotlin + sherpa-ncnn Runtime deployment
+- On-device speech recognition and local AI summary system
+**performance on a android device Helio G99 (CPU) processor using armv8 libs only running ASR model**
+| Metric       | Value   |
+| ------------ | ------- |
+| Memory Usage | ~250 MB  |
+| Latency      | ~120 ms  |
+| Chinese Accuracy (in chaos environment)     | ~89%  |
+| Chinese Accuracy (in quiet environment)     | ~95%  |
+| English Accuracy (in chaos environment)     | ~92%  |
+| English Accuracy (in quiet environment)     | ~97%  |
+
+**performance on a android device Helio G99 (CPU) processor running LLM model**
+| Metric       | Value   |
+| ------------ | ------- |
+| Memory Usage | ~1.4 GB  |
+| Quantization | 4-bit Integer |
+| Throughput | ~1.0 token/s |
+| Latency (Average Summary)      | ~60 seconds  |
+- Kotlin + sherpa-ncnn + llama-cpp Runtime deployment
 - **Future change back to raw ncnn inference framework, and deploy a small LLM that can conclude the recognition text.**
 
 ---
