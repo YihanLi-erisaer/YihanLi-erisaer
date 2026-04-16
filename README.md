@@ -20,9 +20,9 @@
 
 ## Featured Projects
 
-###  Kotlin Zipformer ASR
+###  smeeting
 
-https://github.com/YihanLi-erisaer/Kotlin-zipformer
+https://github.com/YihanLi-erisaer/smeeting
 
 - On-device speech recognition system
 - ~250MB memory / ~80ms latency
