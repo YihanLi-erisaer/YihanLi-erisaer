@@ -41,13 +41,11 @@ https://github.com/YihanLi-erisaer/smeeting
 | English Accuracy (in chaos environment)     | ~92%  |
 | English Accuracy (in quiet environment)     | ~97%  |
 
-**performance on a android device Helio G99 (CPU) processor running LLM model**
+**performance on a android device Helio G99 (CPU) processor running Qwen3.0_0.6b model**
 | Metric       | Value   |
 | ------------ | ------- |
-| Memory Usage | ~1.4 GB  |
-| Quantization | 4-bit Integer |
-| Throughput | ~1.0 token/s |
-| Latency (Average Summary)      | ~60 seconds  |
+| Memory Usage | ~3 GB  |
+| Throughput | ~2 token/s |
 
 - **Future change back to raw ncnn inference framework, and deploy a small LLM that can conclude the recognition text.**
 
