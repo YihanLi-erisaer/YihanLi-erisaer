@@ -1,5 +1,5 @@
 <h1 align="center">Yihan Li</h1>
-<h3 align="center">Liyihan11unique@outlook.com | https://www.linkedin.com/in/yihan-li-b882593b3/</h3>
+<h3 align="center">Liyihan11unique@outlook.com | [Linkedin](https://www.linkedin.com/in/yihan-li-b882593b3/) | [Personal Website](https://stardazz-com.vercel.app/)</h3>
 
 ---
 
