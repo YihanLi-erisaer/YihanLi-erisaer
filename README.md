@@ -1,5 +1,9 @@
 <h1 align="center">Yihan Li</h1>
-<h3 align="center">Liyihan11unique@outlook.com | [Linkedin](https://www.linkedin.com/in/yihan-li-b882593b3/) | [Personal Website](https://stardazz-com.vercel.app/)</h3>
+<p align="center">
+  <a href="mailto:Liyihan11unique@outlook.com">Liyihan11unique@outlook.com</a> | 
+  <a href="https://www.linkedin.com/in/yihan-li-b882593b3/">LinkedIn</a> | 
+  <a href="https://stardazz-com.vercel.app/">Personal Website</a>
+</p>
 
 ---
 
